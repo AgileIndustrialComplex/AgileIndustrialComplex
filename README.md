@@ -1,4 +1,4 @@
 # szpont
 
-![monki flip](./monki-flip.gif)
+![szpontbob](./szpontbob.png)
 
