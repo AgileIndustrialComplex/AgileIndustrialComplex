@@ -1,4 +1,1 @@
 # szpont
-
-![szpontbob](./szpontbob.png)
-
